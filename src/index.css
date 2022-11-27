@@ -1,3 +1,38 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@layer base {
+    .cabinet{
+    font-family: 'Cabinet Grotesk', sans-serif;
+    }
+    .inter{
+    font-family: 'Inter', sans-serif;
+    }
+    .satoshi{
+    font-family: 'Satoshi', sans-serif;
+    }
+    .lexend{
+    font-family: 'Lexend', sans-serif;
+    }
+    .outfit{
+    font-family: 'Outfit', sans-serif;
+    }
+    .poppins{
+    font-family: 'Poppins', sans-serif;
+    }
+    .merriweather{
+    font-family: 'Merriweather', serif;
+    }
+    .montserrat{
+    font-family: 'Montserrat', sans-serif;
+    }
+    .playfair{
+    font-family: 'Playfair Display', serif;
+    }
+    .josefin{
+    font-family: 'Josefin Sans', serif;
+    }
+}
